@@ -18,3 +18,8 @@ print("Your Bank Name Is:", bank);
 name1 = input("Enter Your First Name: ")
 print("Your First Name Is:", name1);
 
+input1 = int(input("Enter First Number :"));
+input2 = int(input("Enter 2 num :"));
+sum = input1 + input2;
+print("The Sum Of Two Numbers Is :" , sum);
+
